@@ -2,8 +2,8 @@
 # Product Management System
 
 ## Student Information
-- **Name:** Lê Quang Nguyên
-- **Student ID:** ITITIU21265
+- **Name:** Lê Ngô Gia Bảo
+- **Student ID:** ITITIU21159
 
 ## Technologies Used
 - Spring Boot 3.3.x
